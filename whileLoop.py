@@ -15,4 +15,3 @@ n = int(input("Enter number for create table up to 10: "))
 for el in range(1,11):
     print(n,"*",el," = ", n*el)
 
-
